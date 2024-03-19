@@ -1,4 +1,4 @@
-# Module 21 Challenge - Home Sales Data Analysis
+# Module 22 Challenge - Home Sales Data Analysis
 
 ## Table of Contents
 1. [Overview](#overview)
